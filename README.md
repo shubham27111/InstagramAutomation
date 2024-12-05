@@ -1,5 +1,8 @@
 # InstagramAutomation
 
+You can clone the repo using below link 
+https://github.com/shubham27111/InstagramAutomation.git
+
 You Should have 3.10.0 of python verison in your system and can install all the required dependencies from the below command
 
 pip install -r src/requirements.txt
